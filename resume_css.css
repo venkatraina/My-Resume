@@ -1,0 +1,102 @@
+
+ .border{
+      border:5px double;
+      margin-bottom:1px;
+     
+}
+.bckgnd{
+      background-color:blue;
+}
+.header{
+	 font-size:23px;
+	 padding: 0.5em;
+         color: white;
+         clear: left;
+         text-align: right;
+         margin-right:95px;
+}
+  .add{
+      	font-size:20px;
+        text-align:left;
+        margin-left:960px;
+      
+        
+}
+
+     h{
+        font-weight:bold;
+	color:#000099;
+	font-size:18px;
+	text-transform:capitalize;
+        
+}
+
+     p{ font-family:calibri;
+	font-size:16px;
+        color:black;
+       
+}
+a:link ,a:visited {
+    text-decoration: none;
+    color:black;
+}
+
+a:hover {
+    text-decoration: none;
+    color:blue;
+}
+
+a:active {
+    text-decoration: none;
+}
+	.subh{
+           font-size:17px;
+           font-family:none;
+           color:blue;
+
+}
+      ul{
+      	list-style-type:disc;
+}
+  .bb{
+       list-style-type:none;
+}
+     .pad{
+        padding-top:1px;
+        overflow: visible;
+
+}
+.s1{
+        width:595px;
+        margin:14px 5px 0 25px;
+        background-color:#ffccff;
+        padding:8px 10px 1px 10px;
+}
+
+     .pad2{
+       
+        margin-left: 680px;
+        overflow: hidden;
+}	
+       
+
+
+.left {
+       color:black;
+       float: left;
+       background: blue;
+       padding:1em;
+       margin-right:5000px;
+       clear:left;
+ }  
+
+.right {
+        width: 50%;
+       	float: right;
+      	border-left: 2px solid blue;
+        padding:1em;
+ }
+       .dt{
+	font-family:none;
+	font-size:19px;
+}
